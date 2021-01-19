@@ -84,5 +84,5 @@ echo -e "\e[38;5;77m       |_|/_/   \_\_|__/|___|_| \_\\e[0m"
 echo -e "\e[38;5;77m       •{ Faeder source has been installed }•\e[0m"
 echo -e "\e[38;5;77m       •{ Source developer : @Pro_c9 }•\e[0m"
 
-./tg -s Project.lua
+./tg -s PROJECT.lua
 fi
