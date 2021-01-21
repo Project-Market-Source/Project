@@ -40,7 +40,7 @@ git clone https://github.com/Project-Market-Source/Project.git && cd Project && 
 
 - ┇ ‎لهنا انتَ كملت تنصيب سورس بروجكت ماركت مبروك
 
-- ┇ Project Market cheneel : @PPPPPP
+- ┇ Project Market channel : @PPPPPP
 
 - ┇ Source Project channel : @NNQNN
 
