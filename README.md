@@ -6,7 +6,7 @@
 
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
 
-git clone https://github.com/Thulfiqarzzwzz/Project.git && cd Project && chmod +x tg && chmod +x PROJ.sh && chmod +x PRO && ./PROJ.sh
+git clone https://github.com/Project-Market-Source/Project.git && cd Project && chmod +x tg && chmod +x PROJ.sh && chmod +x PRO && ./PROJ.sh
 
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
 
@@ -44,4 +44,4 @@ git clone https://github.com/Thulfiqarzzwzz/Project.git && cd Project && chmod +
 
 - ┇ Source Project channel : @NNQNN
 
-- ┇ Source programmer : @zzwzz
+- ┇ Coded by project team ..
